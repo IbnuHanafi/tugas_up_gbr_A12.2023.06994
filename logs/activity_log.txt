@@ -1,0 +1,6 @@
+[2025-04-11 17:39:53] IP: ::1 - DELETE_IMAGE - Gambar ID: 1, File: 1744385778_7cyugz.jpeg
+[2025-04-11 17:47:29] IP: ::1 - DELETE_IMAGE - Gambar ID: 2, File: 1744386438_3fgq6v.jpeg
+[2025-04-11 17:48:06] IP: ::1 - DELETE_IMAGE - Gambar ID: 3, File: 1744386465_6klvuf.jpeg
+[2025-04-11 19:04:41] IP: ::1 - DELETE_IMAGE - Gambar ID: 1, File: 1744387915_ep5art.jpeg
+[2025-04-11 19:04:45] IP: ::1 - DELETE_IMAGE - Gambar ID: 5, File: 1744388608_9hkj2n.jpeg
+[2025-04-12 06:42:18] IP: ::1 - DELETE_IMAGE - Gambar ID: 1, File: 1744423808_j4n2by.jpeg
